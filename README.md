@@ -25,3 +25,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lolyu&show_icons=true&line_height=27&count_private=true" alt="Stats" />
 </a>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/gaga1991" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="gaga1991" height="30" width="40" /></a>
+</p>
