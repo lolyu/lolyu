@@ -22,6 +22,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolyu&hide=Makefile" />
 </a>
 <a href="https://github.com/lolyu/lolyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lolyu&show_icons=true&line_height=27&count_private=true" alt="lolyu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lolyu&show_icons=true&line_height=27&count_private=true" alt="Stats" />
 </a>
 
