@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolyu" alt="lolyu" /></a> </p>
 
 <a href="https://github.com/lolyu/lolyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolyu&hide=Makefile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolyu&hide=Makefile" />
 </a>
 <a href="https://github.com/lolyu/lolyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lolyu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lolyu's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lolyu&show_icons=true&line_height=27&count_private=true" alt="lolyu's GitHub Stats" />
 </a>
 
