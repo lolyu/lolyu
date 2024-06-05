@@ -13,19 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                                                                            
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lolyu&label=Profile%20views&color=0e75b6&style=flat" alt="lolyu" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolyu" alt="lolyu" /></a> </p>
-<br>
-<a href="https://github.com/lolyu/lolyu">
-  <img align="center"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolyu&hide=Makefile&show_icons=true&locale=en&layout=compact"/>
-</a>
-</br>
-<a href="https://github.com/lolyu/lolyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lolyu&show_icons=true&line_height=27&count_private=true" alt="Stats" />
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,git,linux,azure,redis" />
+  </a>
+</p>
+                                                                                                  
+![lolyu GitHub stats](https://github-readme-stats.vercel.app/api?username=lolyu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <h3 align="left">Readings:</h3>
 
