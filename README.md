@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lolyu&label=Profile%20views&color=0e75b6&style=flat" alt="lolyu" /> </p>
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,lua,git,linux,azure,redis" />
