@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 |2021|<ul><li>[~~Redis in action~~](https://redis.com/ebook/redis-in-action/)</li><li>[~~boost.asio c++ network programming~~](https://www.amazon.com/Boost-Asio-Network-Programming-John-Torjo/dp/1782163263)</li><li>[~~gRPC up and running~~](https://www.amazon.com/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335)</li><li>[~~Boost.Asio C++ Network Programming Cookbook~~](https://www.amazon.com/Boost-Asio-C-Network-Programming-Cookbook-ebook/dp/B013QA82S2)</li></ul>|
 |2022|<ul><li>[~~C++ primer plus~~](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)</li><li>[the Linux programming interface](https://man7.org/tlpi/)</li><li>[Understanding Linux Kernel](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652)</li><li>[BGP in the Data Center](https://learning.oreilly.com/library/view/bgp-in-the/9781491983416/)</li></ul>|
 |2023|<ul><li>[~~fluent python, 2nd edition~~](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)</li><li>[high performance python](https://learning.oreilly.com/library/view/high-performance-python/9781492055013/)</li><li>[A Heavily Commemted Linux Kernel Source Code](http://oldlinux.org/)</li></ul>|
-|2024|<ul><li>[Effective C++](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)</li></ul>|
+|2024|<ul><li>[Effective C++](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)</li><li>[深入理解Linux网络](https://book.douban.com/subject/35922722/)</li></ul>|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
