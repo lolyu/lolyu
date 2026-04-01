@@ -22,8 +22,52 @@ Here are some ideas to get you started:
   </a>
 </p>
                                                                                                   
-![lolyu GitHub stats](https://github-readme-stats.vercel.app/api?username=lolyu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+```mermaid
+timeline
+    title Leo (lolyu) — Public Open-Source Contributions
 
+    2018 : 🎩 Red Hat
+         : autotest/tp-qemu — QEMU storage tests (NFS, dd, cdrom, block device)
+         : avocado-framework/avocado-vt — QEMU VM management, QMP monitor
+
+    2019 : 🎩 Red Hat
+         : autotest/tp-qemu — LUKS disk encryption support
+         : avocado-framework/avocado-vt — LUKS backing file integration
+
+    2020 : 🟦 Microsoft
+         : sonic-net/sonic-mgmt — KVM testbed automation, dualtor test foundations
+         : sonic-net/sonic-buildimage — build config
+         : sonic-net/sonic-utilities — CLI tools
+
+    2021 : 🟦 Microsoft
+         : sonic-net/sonic-mgmt — dualtor fixtures, mux simulator, toggle utilities
+         : sonic-net/sonic-linkmgrd — ICMP payload TLV (first contributions)
+
+    2022 : 🟦 Microsoft
+         : sonic-net/sonic-mgmt — dualtor I/O tests, switchover validation, sanity mux recovery, BGP dualtor
+         : sonic-net/sonic-linkmgrd — link prober improvements, default route handling
+         : sonic-net/sonic-buildimage — deploy-mg fixes, service restart recovery
+
+    2023 : 🟦 Microsoft
+         : sonic-net/sonic-linkmgrd — active-active state machine, peer states, NIC simulator gRPC
+         : sonic-net/sonic-mgmt — active-active test suite, mixed cable type support
+         : sonic-net/sonic-swss — mux orchestration for active-active
+
+    2024 : 🟦 Microsoft
+         : sonic-net/sonic-swss — subnet decap (TunnelDecapOrch, overlay ECMP, VIP route), warm-reboot neighbor fix (muxorch)
+         : sonic-net/sonic-sairedis — syncd warm-reboot crash fix
+         : sonic-net/sonic-buildimage — SAI version upgrades
+         : sonic-net/sonic-linkmgrd — thread safety fixes
+         : sonic-net/sonic-mgmt — test stabilization across dualtor testbeds
+
+    2025 : 🟦 Microsoft
+         : sonic-net/sonic-mgmt — parallel fixture manager, fork deadlock fixes, Python version migration
+         : sonic-net/sonic-linkmgrd — mux port initialization fixes
+         : sonic-net/sonic-buildimage — image upgrade compatibility
+
+    2026 : 🟦 Microsoft
+         : sonic-net/sonic-mgmt — VPP dualtor testbeds, sanity check parallelization
+```
 <h3 align="left">Readings:</h3>
 
 |Year|Books|
