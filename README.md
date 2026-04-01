@@ -24,7 +24,7 @@ Here are some ideas to get you started:
                                                                                                   
 ```mermaid
 timeline
-    title Leo (lolyu) — Public Open-Source Contributions
+    title lolyu — Public Open-Source Contributions
 
     2018 : 🎩 Red Hat
          : autotest/tp-qemu — QEMU storage tests (NFS, dd, cdrom, block device)
