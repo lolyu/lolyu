@@ -81,6 +81,7 @@ timeline
 |2023|<ul><li>[~~fluent python, 2nd edition~~](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/)</li><li>[high performance python](https://learning.oreilly.com/library/view/high-performance-python/9781492055013/)</li><li>[A Heavily Commemted Linux Kernel Source Code](http://oldlinux.org/)</li></ul>|
 |2024|<ul><li>[~~Effective C++~~](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)</li><li>[~~深入理解Linux网络~~](https://book.douban.com/subject/35922722/)</li><li>[More effective C++](https://www.amazon.com/More-Effective-Improve-Programs-Designs/dp/020163371X)</li></ul>|
 |2025|<ul><li>[Linux高性能网络详解：从DPDK、RDMA到XDP](https://book.douban.com/subject/36322557/)</li></ul>|
+|2026|<ul><li>[EVPN in the Data Center](oreilly.com/library/view/evpn-in-the/9781492029045/)</li></ul>|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
